@@ -1,9 +1,9 @@
 # Unsplash-Api-Application
 
 A Basic application ehich fetches images from unsplash website using API's.
- -> Fetched Images using API's
- -> Included Pagination
- -> Checked for Network Connectivity
+ #-> Fetched Images using API's
+ #-> Included Pagination
+ #-> Checked for Network Connectivity
  
  
  ![41713434cc50a49777569f32466a9d55](https://user-images.githubusercontent.com/69747262/152375702-702bc167-cc39-4b78-b7a6-acd30d056235.jpg)
